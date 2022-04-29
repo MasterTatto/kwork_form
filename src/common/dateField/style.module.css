@@ -1,0 +1,40 @@
+.date_box {
+    position: relative;
+}
+
+.date_box .input {
+    background: rgba(0, 0, 0, 0.5) 97% 50% no-repeat;
+    height: 50px;
+    width: 100%;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    padding: 0 10px;
+    color: #fff;
+    font-size: 19px;
+    margin: 2px 0 15px 0;
+    position: relative;
+}
+
+.date_box .input svg {
+    height: 30px;
+    fill: #fff;
+    position: absolute;
+    right: 15px;
+    top: 9px;
+    cursor: pointer;
+}
+
+.date_box .show_date {
+    position: absolute;
+    top: 14px;
+    left: 15px;
+    z-index: 10;
+    font-size: 18px;
+}
+
+.calendare {
+    display: flex;
+    position: absolute;
+    z-index: 10;
+}
