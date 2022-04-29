@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/kwork_form/static/css/main.c78da9dd.css",
-    "main.js": "/kwork_form/static/js/main.ed5da931.js",
+    "main.css": "/kwork_form/static/css/main.badf47ce.css",
+    "main.js": "/kwork_form/static/js/main.c07db190.js",
     "static/js/787.b56432c0.chunk.js": "/kwork_form/static/js/787.b56432c0.chunk.js",
     "static/media/calendar.svg": "/kwork_form/static/media/calendar.0e575d7f222281e541d2e95c89a43eba.svg",
     "static/media/logo.svg": "/kwork_form/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/kwork_form/index.html",
-    "main.c78da9dd.css.map": "/kwork_form/static/css/main.c78da9dd.css.map",
-    "main.ed5da931.js.map": "/kwork_form/static/js/main.ed5da931.js.map",
+    "main.badf47ce.css.map": "/kwork_form/static/css/main.badf47ce.css.map",
+    "main.c07db190.js.map": "/kwork_form/static/js/main.c07db190.js.map",
     "787.b56432c0.chunk.js.map": "/kwork_form/static/js/787.b56432c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c78da9dd.css",
-    "static/js/main.ed5da931.js"
+    "static/css/main.badf47ce.css",
+    "static/js/main.c07db190.js"
   ]
 }
